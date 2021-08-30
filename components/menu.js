@@ -4,6 +4,7 @@ function MENU (){
         <ul>
             <li>primeiro</li>
             <li>segundo</li>
+            <li>terceiro</li>
         </ul>
         
         
