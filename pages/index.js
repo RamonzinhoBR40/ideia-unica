@@ -6,6 +6,7 @@ function HOME (){
     return <>
     <MENU />
     <FOOTER />
+    <h1>oi Rita!</h1>
     </>
 }
 
